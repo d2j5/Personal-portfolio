@@ -63,21 +63,3 @@ body {
     background-color: #1a7f37;
     color: white;
 }
-
-.text-decoration-none{
-    color:#1a7f37;
-}
-
-h3 {
-    color: #1f1f25;
-    font-size: 25px;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    display: inline-block;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#fd4766 79.69%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-left: 8%;
-}
