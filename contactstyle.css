@@ -81,3 +81,8 @@ h3 {
     -webkit-text-fill-color: transparent;
     margin-left: 8%;
 }
+
+.row{
+    margin: 20px;
+    display: flex;
+}
