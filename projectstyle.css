@@ -55,6 +55,11 @@ body {
     border: solid 2px #1a7f37;
     border-radius: 10px;
     padding: 10px;
+    margin: 5px;
+    align-items:center;
+    display: flex;
+    flex-wrap: row wrap;
+
     
     
 }
