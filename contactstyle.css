@@ -13,6 +13,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding: 10px 30px;
+    background-color: #E2E2E2;
 }
 .logo{
     max-height: 50px;
@@ -47,7 +48,7 @@ nav ul li a:hover:after{
 }
 
 body {
-    background-color: #E2E2E2;
+    background-color: white;
     font-family: 'Poppins', sans-serif;
 }
 .card {
@@ -82,7 +83,25 @@ h3 {
     margin-left: 8%;
 }
 
-.row{
-    margin: 20px;
+.row1{
+
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    width: 100%;
+    
+}
+.row2{
+    color: #1a7f37;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-left: 40px;
     display: flex;
+    justify-content:center;
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 40px;
+
 }
