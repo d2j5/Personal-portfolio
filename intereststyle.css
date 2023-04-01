@@ -52,6 +52,8 @@ body {
 }
 .card {
     border: solid 2px #1a7f37;
+    border-radius: 10px;
+    padding: 10px;
 }
 .hovering {
     transition: 0.5s ease-in-out;
@@ -64,16 +66,3 @@ body {
     color: white;
 }
 
-h3 {
-    color: #1f1f25;
-    font-size: 25px;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    display: inline-block;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#fd4766 79.69%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-left: 8%;
-}
