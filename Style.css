@@ -18,9 +18,16 @@ a{
     margin-bottom: 15px;
     display: flex;
     flex-wrap: wrap;
-    
-   
+    animation: fade-in linear 2s;
+       
 
+}
+@keyframes fade-in{
+    0%{
+        opacity:0.5;
+    }
+    100%{opacity:1;
+    }
 }
 
 .belements {
@@ -153,3 +160,6 @@ h2 {
         
 }
 
+.hero {
+
+}
