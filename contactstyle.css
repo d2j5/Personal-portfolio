@@ -96,4 +96,31 @@ h3 {
     margin-right: 35px;
     margin-left: 35px;
     color: #1a7f37;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+.btn{
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 100px;
+    display: inline-block;
+    font-weight: 400;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background: #1a7f37;
+    border: 2px solid #1a7f37;
+    margin-top: 15px;
+
+    align-items: center;
+    
+    
+    
+}
+.btn:hover{
+    background: transparent;
+    border-color: #1a7f37;
+    color: #1a7f37;
 }
